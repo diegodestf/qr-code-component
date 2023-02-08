@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <Helmet>
+        <html lang="en" />
         <title>QR Code Component</title>
       </Helmet>
       <Qr />
